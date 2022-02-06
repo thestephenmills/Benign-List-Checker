@@ -1,0 +1,9 @@
+_autodiscover._tcp.soleranetworks.com 
+ipv6.microsoft.com 
+d.dropbox.com
+Cacacacacacacacacacacacacacacabn
+253.25.168.192.in-addr.arpa
+dns.msftncsi.com
+data.microsoft.com
+urs.microsoft.com
+hb.lifecycle.norton.com
