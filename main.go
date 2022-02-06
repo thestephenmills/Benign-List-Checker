@@ -20,7 +20,7 @@ func main() {
 	var input_data_file string
 	var input_benign_file string
 
-	flag.StringVar(&input_data_file, "d", "data/test_data_fie.txt", "Text file containing list of DNS names (newline separated)")
+	flag.StringVar(&input_data_file, "d", "data/test_data_file.txt", "Text file containing list of DNS names (newline separated)")
 	flag.StringVar(&input_benign_file, "b", "data/test_benign_list.csv", "CSV file containing the benign list")
 
 	flag.Parse()
