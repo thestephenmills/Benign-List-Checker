@@ -1,5 +1,5 @@
-# Mandiant_Programming_Exercise
-Programming challenge problem for the interview with Lipyeow/Mandiant. This program accepts a list of DNS names (TXT format) and a benign list (CSV format) then compares the files and outputs a file containing a list of DNS entries that do NOT have a suffix in the benign list. 
+# Benign List Checker
+This program accepts a list of DNS names (TXT format) and a benign list (CSV format) then compares the files and outputs a file containing a list of DNS entries that do NOT have a suffix in the benign list. 
 
 
 ### PREREQUISITES
